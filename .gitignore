@@ -1,0 +1,11 @@
+venv/
+_pycache_/
+*.pyc
+.DS_Store
+*.pth
+*.tar
+*.pt
+*.jpg
+*.jpeg
+*.png
+*.json
